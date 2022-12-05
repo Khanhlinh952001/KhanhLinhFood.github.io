@@ -1,2 +1,0 @@
-# KhanhLinhShoppe.github.io
-Uploadcode
